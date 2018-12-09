@@ -1,3 +1,4 @@
+library(data.table)
 library(lubridate)
 #EPC is Electric power Consumption,na.strings ="?" replaces all "?" with NAs
 
